@@ -22,8 +22,6 @@ int main()
 	srand((int)time(0)); //used to generate the random values we'll populate our list with 
 	
 	struct node* head = NULL;	//head is the front of our currently empty list
-	//head = (struct node*)malloc(sizeof(struct node));
-	//nullCheck(head);	
 	
 	int userInput = 0;
 	userInput = menu();
