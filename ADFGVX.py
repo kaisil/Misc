@@ -2,7 +2,6 @@
 
 import sys
 
-
 #   The first key, henceforth referred to as the substitution key,
 # will be a 6x6 matrix, each row and column labeled
 # with the letters A,D,F,G,V,X. The entries in the matrix will
